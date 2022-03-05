@@ -1,0 +1,8 @@
+{
+  "name": "Carlos",
+  "document": "12.123.123/1234-12",
+  "email": "name@something.fake",
+  "password": "abc1234",
+  "type": "storekeeper",
+  "balance": 100.0
+}
